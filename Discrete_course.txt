@@ -1,0 +1,14 @@
+	(1) Propositional Logic
+
+1- The proposition is a declarative sentence (fact) its either true or false
+2- if there is unknown variable like (x) then it wont be a proposition --> because we dont know its value. like x+3=5 we dont know x value.
+
+3- ( Not --> ¬ ) the negation of ( p--> proposition ) so it gives the oppsite value of the p if its true then it will make it false.
+
+4- ( AND --> ∧ ) if (p and q --> propositions ) to make the statment true you must have both of p and q true and if one of then false then the statemnt is false.
+
+5- ( OR --> ∨ ) if ( p and q --> propositions ) to make the statment true just need one of them to be true and to make it false it needs both of p and q to be false.
+
+6- ( XOR --> ⊕ ) if ( p and q --> propositions ) to make the statment true one of them must be true and other be false for example if p true and the q is false then the statment is true if both of them true then it will be false.
+
+7- the difference bettween ( OR and XOR) OR only need one proposition to be alway true . But XOR its true only if p and q are oppsite .
