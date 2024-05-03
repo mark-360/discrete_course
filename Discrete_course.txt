@@ -11,4 +11,16 @@
 
 6- ( XOR --> ⊕ ) if ( p and q --> propositions ) to make the statment true one of them must be true and other be false for example if p true and the q is false then the statment is true if both of them true then it will be false.
 
-7- the difference bettween ( OR and XOR) OR only need one proposition to be alway true . But XOR its true only if p and q are oppsite .
+7- the difference bettween ( OR and XOR) OR only need one proposition to be alway true . But XOR its true only if p and q are oppsite.
+
+8- The conditional statement: (p,q --> propositions) if p, then q this means p --> q. the only case that make this statement wrong when p is true and q is false other wise its always true.
+
+9- if p is false then the statement will be always true ,and if the q is true then always the statement is true. Assume that q is a big circle and p is part of this circle.
+
+10- Assume that (p,q --> propositions). The inverse: -p --> -q.
+
+11- converse: q --> p.
+
+12- contrapositive -q --> -p.
+
+13- Biconditional (p,q --> propositions). p if and only if q  ( p <--> q ) it can be written as ( p --> q ) ∧ ( q --> p) its true only in two cases if both of p,q are true or both of p,q false. and the statement is false if one of them is true and other is false. (the opposite of XOR).
