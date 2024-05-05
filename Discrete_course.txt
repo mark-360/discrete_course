@@ -33,3 +33,11 @@
 p --> q the we say if Ahmed is playing ,then Ahmed is eating ice-cream. if we want to use biconditional p <--> q we say Ahmed is playing if and only if Ahmed is eating ice-cream.
 
 17- note we can use (1 instead of true) and we can use (0 instead of false).
+
+18- Tautology --> always true (if all the output of the table true then its tautology).
+
+19- contradiction --> always false (if all the output of the table is false then its contradiction).
+
+20- contingency --> neither a tautology nor contradiction.
+
+21- 
