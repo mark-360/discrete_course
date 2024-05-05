@@ -40,4 +40,14 @@ p --> q the we say if Ahmed is playing ,then Ahmed is eating ice-cream. if we wa
 
 20- contingency --> neither a tautology nor contradiction.
 
-21- 
+21- we can use the logical equivalence to prove the logic algebra.
+
+22- Predicates and Quantifiers.
+
+23- Predicate (p(x)) is a statment takes a propositional value (true or false) if there is x in the statment we wont be able to know if its true or false.
+
+24- The quantifier consist of two parts (universal and existence).
+
+25- the universal ∀x(p(x)) is for all x values there is p(x). p(x) represents the domain. to make the statment true all values of x must satisfy p(x).
+
+26- the existential ∃x(p(x)) there exist a value of x in p(x). p(x) represents the domain. to make the statement true there should be at least one x satisfy p(x).
