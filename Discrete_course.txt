@@ -24,3 +24,12 @@
 12- contrapositive -q --> -p.
 
 13- Biconditional (p,q --> propositions). p if and only if q  ( p <--> q ) it can be written as ( p --> q ) ∧ ( q --> p) its true only in two cases if both of p,q are true or both of p,q false. and the statement is false if one of them is true and other is false. (the opposite of XOR).
+
+14- The truth table: if we have two propositions then we will make 2^2 =4 this means will be two true and two false if its 3 propositions then it will be 2^3=8 this means will be 4 true and 4 false. So its 2^number of propositions.
+
+15- The priority in the truth table to be done at first the negation(~) then both (AND / OR) then conditional then biconditional.
+
+16- Translating to English if p =  Ahmed is playing. and we want ~p so we say --> Ahmed isn't playing. if we want to put (AND /OR) if we got anther proposition like q = Ahmed is eating ice-cream. so if we want p ∧ q we say --> Ahmed is playing and Ahmed is eating ice-cream. if we want p ∨ q we say --> Ahmed is playing or Ahmed is eating ice-cream. if we want to use conditional
+p --> q the we say if Ahmed is playing ,then Ahmed is eating ice-cream. if we want to use biconditional p <--> q we say Ahmed is playing if and only if Ahmed is eating ice-cream.
+
+17- note we can use (1 instead of true) and we can use (0 instead of false).
