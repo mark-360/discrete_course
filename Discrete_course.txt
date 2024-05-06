@@ -59,3 +59,13 @@ p --> q the we say if Ahmed is playing ,then Ahmed is eating ice-cream. if we wa
 29- ∀x(p(x)) ∧ ∀x(q(x)) --> for every x value must satisfy both p(x) and q(x).
 
 30- ∃x(p(x)) ∧ ∃x(q(x)) --> there should only one value of x that satisfy both p(x) and q(x).
+
+31- according to De morgan's law  --> ~∃x(p(x)) = ∀x~(p(x)). ~∀x(p(x)) = ∃x~(p(x)).
+
+32- some words to know which quantifier we use --> frist the universal --> all , for each.
+
+33- second the existentianl --> some , these exist.
+
+34- there is an expression starts with no for ex: no large birds live on honey --> we can translate it as ∀x~p(x).
+
+
