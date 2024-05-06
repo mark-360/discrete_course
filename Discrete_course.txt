@@ -51,3 +51,11 @@ p --> q the we say if Ahmed is playing ,then Ahmed is eating ice-cream. if we wa
 25- the universal ∀x(p(x)) is for all x values there is p(x). p(x) represents the domain. to make the statment true all values of x must satisfy p(x).
 
 26- the existential ∃x(p(x)) there exist a value of x in p(x). p(x) represents the domain. to make the statement true there should be at least one x satisfy p(x).
+
+27- if we have ∀x(x+y=1) this means all values of x must satisfy the domain which is x+y=1.
+
+28- both of universal and existential can be written beside each other of the univeral beside unviversal.
+
+29- ∀x(p(x)) ∧ ∀x(q(x)) --> for every x value must satisfy both p(x) and q(x).
+
+30- ∃x(p(x)) ∧ ∃x(q(x)) --> there should only one value of x that satisfy both p(x) and q(x).
